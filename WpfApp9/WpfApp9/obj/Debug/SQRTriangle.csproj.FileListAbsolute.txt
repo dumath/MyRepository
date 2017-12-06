@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\SQRTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\SQRTriangle.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\SQRTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\WpfApp9\WpfApp9\obj\Debug\WpfApp9.pdb

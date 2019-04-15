@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gower
 {
-    //Абстракция персонажа
+    //Абстракция персонажа. Будет использована для добавления схожих объектов
     abstract class Character
     {
         protected int _yCoord;

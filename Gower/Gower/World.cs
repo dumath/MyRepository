@@ -55,6 +55,7 @@ namespace Gower
         }
 
         //Метод взаимодействия пользователя и героя
+        //Явная реализация интерфейса, на тот случай. если появится еще один интерфейс IMove
         public void Move(ConsoleKey key)
         {
             IMove moveObj = this.mainHeroy as IMove;

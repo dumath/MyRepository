@@ -1,0 +1,7 @@
+C:\Users\creat\source\repos\Gower\Gower\bin\Debug\Gower.exe.config
+C:\Users\creat\source\repos\Gower\Gower\bin\Debug\Gower.exe
+C:\Users\creat\source\repos\Gower\Gower\bin\Debug\Gower.pdb
+C:\Users\creat\source\repos\Gower\Gower\obj\Debug\Gower.csprojAssemblyReference.cache
+C:\Users\creat\source\repos\Gower\Gower\obj\Debug\Gower.csproj.CoreCompileInputs.cache
+C:\Users\creat\source\repos\Gower\Gower\obj\Debug\Gower.exe
+C:\Users\creat\source\repos\Gower\Gower\obj\Debug\Gower.pdb

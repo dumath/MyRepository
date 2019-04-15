@@ -4,7 +4,7 @@ namespace Gower
 {
     class Heroy : Character, IMove
     {
-        //Пассивный конструктор отсутствует.Компилятор сам создает пассивный коонструктор
+        //АКТИВНЫЙ КОНСТРУКТОР. КОМПИЛЯТОР НЕ СОЗДАЕТ ПАССИВНЫЙ
         public Heroy(int y, int  x)
         {
             this._yCoord = y;

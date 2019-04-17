@@ -11,6 +11,8 @@ namespace Gower
         //Константный размер земли
         private const int DEFAULT_Y = 5;
         private const int DEFAULT_X = 10;
+
+        //TODO: Добавить аргументы сетки,если значения в них НЕ КОНСТАНТНЫЕ
         
         //Земля, по которой движется герой
         private Ground[,] terrain;
@@ -23,7 +25,7 @@ namespace Gower
         //Если значения в конструкторе не указаны, автоматически присвоются константы
         public World(int y = DEFAULT_Y, int x = DEFAULT_X)
         {
-            this.terrain = new Ground[DEFAULT_Y, DEFAULT_X];
+            this.terrain = new Ground[y, x];
 
             for(int yCicle = 0; yCicle < y; yCicle++)
             {
